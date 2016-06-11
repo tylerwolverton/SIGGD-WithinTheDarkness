@@ -1,0 +1,8 @@
+My contributions can be seen in the subfolder Game\Acting. 
+Files I wrote:
+Player.cs  <-- many people worked on this, I specifically wrote the magic attacks, special sword attack, and miscellaneous other components
+Bosses\MrHammer.cs
+Enemies\DiscoBlob.cs
+Enemies\Octo.cs
+Enemies\Sentinel.cs
+Enemies\Spikon.cs
