@@ -6,3 +6,5 @@ Enemies\DiscoBlob.cs
 Enemies\Octo.cs
 Enemies\Sentinel.cs
 Enemies\Spikon.cs
+
+I also imported most of the enemy sprites and wired them up to their respective actors and helped design our final level for the game.
